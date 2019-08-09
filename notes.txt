@@ -1,0 +1,17 @@
+// don't forget about
+
+// coalescing operator ??
+left side = null then right side is executed
+
+// elvis operator ?:
+like ternary operator but left side is resolved to be true or false
+and if it's false then right side is executed.
+
+where as ternary resolves left side as true or false and then executes
+the left side expression besides : or the right side expression
+
+space ship operator <=>
+expression resolves to -1 if the left side value is less than the right side
+0 if it's equal, and 1 if it's greater
+
+
